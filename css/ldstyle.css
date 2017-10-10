@@ -1,0 +1,43 @@
+body {
+  background-color: navy;
+}
+
+h1 {
+  font-family: 'Kumar One Outline', cursive;
+  Font-size: 50px;
+  text-align: center;
+  color: salmon;
+}
+
+h2 {
+  text-align: center;
+  color: salmon;
+}
+
+p {
+  text-align:center;
+  font-size: 30px;
+  font-style: bold;
+  color: crimson;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+  color: crimson;
+  font-style: italic;
+}
+
+ul {
+  color: crimson;
+  font-size: 30px;
+  font-style: italic;
+}
+
+li {
+  color: crimson;
+}
